@@ -1,7 +1,7 @@
 <h3 align="center">JOHN VINCENT PERALTA </h3>
 
 _________
-<p align="center">Actively expanding a professional portfolio on GitHub and other platforms, specializing in PHP, Laravel, JavaScript, MySQL, and web development principles such as responsive design, MVC architecture, and RESTful APIs. Passionate about building dynamic and efficient web applications while continuously learning new technologies.</p>
+<p align="center">Actively expanding a professional portfolio on GitHub and other platforms, specializing in PHP, JavaScript, MySQL, and web development principles such as responsive design, MVC architecture, and RESTful APIs. Passionate about building dynamic and efficient web applications while continuously learning new technologies.</p>
 
 ______
 <h3 align="left">Languages and Tools:</h3>
